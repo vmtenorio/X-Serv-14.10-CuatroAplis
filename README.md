@@ -1,9 +1,9 @@
-# X-Serv-14.9-CuatroAplis
-Ejercicio 14.9 - Clase servidor, cuatro aplis
+# X-Serv-14.10-CuatroAplis
+Ejercicio 14.10 - Clase servidor, cuatro aplis
 
 ## Enunciado
 
-Utilizando la clase creada para <a href="https://github.com/CursosWeb/X-Serv-14.8-ServVariasApps">Clase servidor de varias aplicaciones</a>, crea una una aplicación web con varias aplis:
+Utilizando la clase creada para <a href="https://github.com/CursosWeb/X-Serv-14.10-ServVariasApps">Clase servidor de varias aplicaciones</a>, crea una una aplicación web con varias aplis:
 
 <ul>
   <li>Si se invocan recursos que comiencen por <i>/hola</i>, se devuelve una página HTML en la que se vea el texto <i>Hola</i>.
@@ -14,7 +14,7 @@ Utilizando la clase creada para <a href="https://github.com/CursosWeb/X-Serv-14.
 
 ## Forma de entrega
 
-Has de tener un repositorio llamado X-Serv-14.9-CuatroAplis en tu cuenta en GitHub
+Has de tener un repositorio llamado X-Serv-14.10-CuatroAplis en tu cuenta en GitHub
 que incluya el fichero de nombre 'webapp.py' que contenga la clase principal webApp,
 y los ficheros 'hola.py', 'suma.py' y 'aleat.py' con las clases de las aplicaciones
 (nótese que en 'hola.py' deberán estar las clases para los casos de <i>/hola</i> y <i>/adios</i>).
