@@ -36,7 +36,7 @@ class app:
         """
 
         return ("200 OK", "<html><body><h1>" +
-                          "Default application just saying 'It works!'" +
+                          "You can run: suma, hola, adios or aleat." +
                           "</h1><p>App id: " + str(self) + "<p></body></html>")
 
 class webApp:
